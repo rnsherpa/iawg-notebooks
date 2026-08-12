@@ -1,0 +1,48 @@
+method	analysis_set_count	principal_analysis_sets	intermediate_analysis_sets	method_description
+10x multiome	1988	506	1482	A RNA-seq assay that is used for profiling gene expression in individual nuclei with optimized next generation sequencing (NGS) technologies. This allows the RNA-seq profiling of cell types that are more vulnerable to the tissue dissociation process, and that are therefore underrepresented in the final data set in single cell sequencing. | An ATAC-seq assay in which single nuclei are isolated from frozen tissue samples, through a protocol designed to maximally preserve nucleus integrity during sample processing and optimize transposase-mediated fragmentation of chromatin in individual nuclei. | An RNA sequencing assay that uses RNA extracts as input that can be traced to a single cell of origin.
+Parse SPLiT-seq	535	52	483	A RNA-seq assay that is used for profiling gene expression in individual nuclei with optimized next generation sequencing (NGS) technologies. This allows the RNA-seq profiling of cell types that are more vulnerable to the tissue dissociation process, and that are therefore underrepresented in the final data set in single cell sequencing. | An RNA sequencing assay that uses RNA extracts as input that can be traced to a single cell of origin.
+10x snATAC-seq with Scale pre-indexing	144	0	144	An ATAC-seq assay in which single nuclei are isolated from frozen tissue samples, through a protocol designed to maximally preserve nucleus integrity during sample processing and optimize transposase-mediated fragmentation of chromatin in individual nuclei.
+10x multiome with MULTI-seq	122	0	122	A RNA-seq assay that is used for profiling gene expression in individual nuclei with optimized next generation sequencing (NGS) technologies. This allows the RNA-seq profiling of cell types that are more vulnerable to the tissue dissociation process, and that are therefore underrepresented in the final data set in single cell sequencing. | An ATAC-seq assay in which single nuclei are isolated from frozen tissue samples, through a protocol designed to maximally preserve nucleus integrity during sample processing and optimize transposase-mediated fragmentation of chromatin in individual nuclei. | An RNA sequencing assay that uses RNA extracts as input that can be traced to a single cell of origin.
+SHARE-seq	106	1	105	A RNA-seq assay that is used for profiling gene expression in individual nuclei with optimized next generation sequencing (NGS) technologies. This allows the RNA-seq profiling of cell types that are more vulnerable to the tissue dissociation process, and that are therefore underrepresented in the final data set in single cell sequencing. | An ATAC-seq assay in which single nuclei are isolated from frozen tissue samples, through a protocol designed to maximally preserve nucleus integrity during sample processing and optimize transposase-mediated fragmentation of chromatin in individual nuclei. | An RNA sequencing assay that uses RNA extracts as input that can be traced to a single cell of origin.
+scNT-seq2	40	40	0	single cell new transcription sequencing
+mtscMultiome	38	38	0	An RNA sequencing assay that uses RNA extracts as input that can be traced to a single cell of origin.
+MPRA	29	15	14	An assay in which multiplexing the construction and interrogation of larger libraries of reporter constructs allows measurement of the transcriptional regulatory activities of thousands to hundreds of thousands of DNA sequences.
+HiCAR	26	6	20	A chromosome conformation capture assay that detects genome-wide chromosomal interactions. High-throughput techniques are used to sequence the ligated fragments after cross-linking and cutting with restriction enzymes.
+Pooled Y2H	23	1	22	An assay that determines interactions between proteins, such as protein-protein binding.
+CRISPR FlowFISH screen	22	22	0	An in vitro CRISPR screen assay that uses flow cytometry to detect induced changes in gene expression of the targeted genes.
+Perturb-seq	22	22	0	An in vitro CRISPR screen assay that uses single-cell RNA-Seq to detect induced changes in gene expression.
+CRISPR FACS screen	21	21	0	An in vitro CRISPR screen assay that uses flow cytometry to detect induced changes in gene expression of the targeted genes.
+lentiMPRA	20	12	8	An assay in which multiplexing the construction and interrogation of larger libraries of reporter constructs allows measurement of the transcriptional regulatory activities of thousands to hundreds of thousands of DNA sequences.
+RNA-seq	15	14	1	An RNA-seq assay in which the sample that is sequenced is derived from a collection of cells, such as a tissue sample or entire cell culture, and therefore provides results representative of the aggregate of sample cells.
+STARR-seq	15	15	0	An RNA-seq assay that identifies the sequences that act as transcriptional enhancers in a direct, quantitative, and genome-wide manner from sheared genomic DNA.
+ATAC-seq	13	13	0	An assay for transposase-accessible chromatin using sequencing in which the sample that is sequenced is derived from a collection of cells, such as a tissue sample or entire cell culture, and therefore provides results representative of the aggregate of sample cells.
+Variant-EFFECTS	13	13	0	An in vitro CRISPR screen assay that uses flow cytometry to detect induced changes in gene expression of the targeted genes.
+TAP-seq	9	9	0	An in vitro CRISPR screen assay that uses single-cell RNA-Seq to detect induced changes in gene expression.
+TF ChIP-seq	9	9	0	A transcription factor binding site assay that utilizes ChIP-seq technology.
+scRNA-seq	9	3	6	An RNA sequencing assay that uses RNA extracts as input that can be traced to a single cell of origin.
+MAVE	8	8	0	yeast-based functional complementation assay
+ONT Fiber-seq	8	8	0	A DNA methylation profiling assay in which chromatin stencils are created by treating nuclei with m6A methyltransferase (MTase) and then sequenced using single-molecule circular consensus sequencing to identify regions of accessible DNA at nucleotide resolution.
+ONT dRNA	8	8	0	An assay to study transcription through direct RNA sequence determination, without prior conversion of RNA molecules to cDNA.
+ONT direct WGS	8	8	0	A DNA methylation profiling assay in which the methylation state of DNA is determined and can be compared between samples using sequencing based technology
+SGE	7	7	0	Saturation genome editing
+VAMP-seq	7	3	4	Variant abundance by massively parallel sequencing
+VAMP-seq (MultiSTEP)	6	5	1	Variant abundance by massively parallel sequencing MultiSTEP
+snATAC-seq	5	1	4	An ATAC-seq assay in which single nuclei are isolated from frozen tissue samples, through a protocol designed to maximally preserve nucleus integrity during sample processing and optimize transposase-mediated fragmentation of chromatin in individual nuclei.
+Histone ChIP-seq	4	4	0	An epigenetic modification assay that identifies regions containing specific histones and their modifications using ChIP-Seq techniques.
+Proliferation CRISPR screen	4	4	0	An assay in which cells expressing a Cas system are infected with a library of guide RNAs with the intent of causing a perturbation at the target of the guide RNAs.
+SGE-RNA	4	4	0	Saturation genome editing
+scCRISPR screen	3	3	0	An in vitro CRISPR screen assay that uses single-cell RNA-Seq to detect induced changes in gene expression.
+AAV-MPRA	2	2	0	An assay in which multiplexing the construction and interrogation of larger libraries of reporter constructs allows measurement of the transcriptional regulatory activities of thousands to hundreds of thousands of DNA sequences.
+Immune-SGE	2	2	0	Immune saturation genome editing
+MORF screen	2	2	0	A cytometry assay in which an input cell population is put in solution, is passed by a laser, and optical sensors are used to detect scattering of the laser light and/or fluorescence of specific markers to count and characterize the particles in solution.
+MPRA (scQer)	2	1	1	single cell massively parallel reporter assay
+Parse Perturb-seq	2	2	0	An in vitro CRISPR screen assay that uses single-cell RNA-Seq to detect induced changes in gene expression.
+electroporated MPRA	2	1	1	An assay in which multiplexing the construction and interrogation of larger libraries of reporter constructs allows measurement of the transcriptional regulatory activities of thousands to hundreds of thousands of DNA sequences.
+in vivo MPRA	2	1	1	An assay in which multiplexing the construction and interrogation of larger libraries of reporter constructs allows measurement of the transcriptional regulatory activities of thousands to hundreds of thousands of DNA sequences.
+Arrayed semi-qY2H v1	1	1	0	An assay that determines interactions between proteins, such as protein-protein binding.
+Arrayed semi-qY2H v2	1	1	0	An assay that determines interactions between proteins, such as protein-protein binding.
+Arrayed semi-qY2H v3	1	1	0	An assay that determines interactions between proteins, such as protein-protein binding.
+DUAL-IPA	1	1	0	A cytometry assay in which an input cell population is put in solution, is passed by a laser, and optical sensors are used to detect scattering of the laser light and/or fluorescence of specific markers to count and characterize the particles in solution.
+Migration CRISPR screen	1	1	0	An assay in which cells expressing a Cas system are infected with a library of guide RNAs with the intent of causing a perturbation at the target of the guide RNAs.
+Variant painting via fluorescence	1	1	0	An assay that produces a picture of an entity.
+in vivo Perturb-seq	1	1	0	in vivo CRISPR screen using single cell RNA-seq

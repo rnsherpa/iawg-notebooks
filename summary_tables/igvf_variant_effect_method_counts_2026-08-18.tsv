@@ -1,0 +1,16 @@
+method	analysis_set_count	principal_analysis_sets	intermediate_analysis_sets	method_description
+STARR-seq	15	15	0	An RNA-seq assay that identifies the sequences that act as transcriptional enhancers in a direct, quantitative, and genome-wide manner from sheared genomic DNA.
+Variant-EFFECTS	13	13	0	An in vitro CRISPR screen assay that uses flow cytometry to detect induced changes in gene expression of the targeted genes.
+lentiMPRA	9	9	0	An assay in which multiplexing the construction and interrogation of larger libraries of reporter constructs allows measurement of the transcriptional regulatory activities of thousands to hundreds of thousands of DNA sequences.
+MAVE	8	8	0	yeast-based functional complementation assay
+CRISPR FACS screen	7	7	0	An in vitro CRISPR screen assay that uses flow cytometry to detect induced changes in gene expression of the targeted genes.
+MPRA	7	7	0	An assay in which multiplexing the construction and interrogation of larger libraries of reporter constructs allows measurement of the transcriptional regulatory activities of thousands to hundreds of thousands of DNA sequences.
+SGE	7	7	0	Saturation genome editing
+VAMP-seq (MultiSTEP)	5	5	0	Variant abundance by massively parallel sequencing MultiSTEP
+SGE-RNA	4	4	0	Saturation genome editing
+VAMP-seq	3	3	0	Variant abundance by massively parallel sequencing
+AAV-MPRA	2	2	0	An assay in which multiplexing the construction and interrogation of larger libraries of reporter constructs allows measurement of the transcriptional regulatory activities of thousands to hundreds of thousands of DNA sequences.
+Immune-SGE	2	2	0	Immune saturation genome editing
+Proliferation CRISPR screen	1	1	0	An assay in which cells expressing a Cas system are infected with a library of guide RNAs with the intent of causing a perturbation at the target of the guide RNAs.
+electroporated MPRA	1	1	0	An assay in which multiplexing the construction and interrogation of larger libraries of reporter constructs allows measurement of the transcriptional regulatory activities of thousands to hundreds of thousands of DNA sequences.
+in vivo MPRA	1	1	0	An assay in which multiplexing the construction and interrogation of larger libraries of reporter constructs allows measurement of the transcriptional regulatory activities of thousands to hundreds of thousands of DNA sequences.

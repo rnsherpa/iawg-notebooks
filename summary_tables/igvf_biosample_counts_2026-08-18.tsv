@@ -1,0 +1,78 @@
+biosample_term_id	biosample_name	analysis_set_count	principal_analysis_sets	intermediate_analysis_sets
+UBERON:0002740	posterior cingulate gyrus	1349	109	1240
+UBERON:0001874	putamen	1331	111	1220
+UBERON:0002771	middle temporal gyrus	1295	107	1188
+UBERON:0002038	substantia nigra	1289	109	1180
+UBERON:0002129	cerebellar cortex	1099	109	990
+UBERON:0002371	bone marrow	228	1	227
+NTR:0000646	left cerebral cortex	197	30	167
+CL:2000001	peripheral blood mononuclear cell	145	39	106
+UBERON:0002369	adrenal gland	122	10	112
+UBERON:0001388	gastrocnemius	118	8	110
+NTR:0000750	left hippocampal formation	117	7	110
+UBERON:0001898	hypothalamus	116	12	104
+UBERON:0000007	pituitary gland	116	12	104
+UBERON:0000948	heart	112	8	104
+UBERON:0001301	epididymis	104	8	96
+UBERON:0000992	ovary	104	8	96
+UBERON:0000993	oviduct	104	8	96
+UBERON:0000473	testis	104	8	96
+NTR:0000647	right cerebral cortex	103	21	82
+EFO:0004905	induced pluripotent stem cell	94	71	23
+UBERON:0002113	kidney	94	6	88
+UBERON:0002107	liver	94	6	88
+NTR:0000751	right hippocampal formation	85	5	80
+EFO:0009747	GM25256 (WTC-11)	82	32	50
+EFO:0003042	H1-hESC	76	6	70
+CL:0000236	B cell	37	4	33
+CL:0000000	cell	30	8	22
+EFO:0007093	HUES8	28	28	0
+EFO:0002067	K562	27	19	8
+EFO:0920063	TeloHAEC	27	13	14
+EFO:0002824	HCT116	24	16	8
+EFO:0003045	H9	20	4	16
+EFO:0001187	HepG2	17	9	8
+EFO:0004038	mouse embryonic stem cell	16	4	12
+CL:0000909	CD8-positive, alpha-beta memory T cell	14	13	1
+EFO:0001253	THP-1	14	10	4
+EFO:0001082	HEK293T	13	5	8
+EFO:0022838	HUDEP-2	13	1	12
+EFO:0022614	HCASMC-hTERT	12	4	8
+EFO:0007598	HAP-1	11	7	4
+EFO:0002796	Jurkat	10	6	4
+EFO:0009320	RUES2	10	0	10
+CL:0000057	fibroblast	10	0	10
+CLO:0008675	PYS-2 cell	9	9	0
+UBERON:0000955	brain	9	0	9
+EFO:0005904	H7-hESC	8	0	8
+EFO:0001196	IMR-90	8	0	8
+EFO:0001203	MCF-7	8	0	8
+EFO:0003072	SK-N-SH	8	0	8
+UBERON:0001626	left coronary artery	8	0	8
+UBERON:0001134	skeletal muscle tissue	8	0	8
+UBERON:0012168	umbilical cord blood	8	0	8
+CLO:0003730	HFF-1 cell	7	7	0
+EFO:0022835	HL-1	7	1	6
+UBERON:0001052	rectum	6	0	6
+EFO:0022564	HEK-293F	5	5	0
+EFO:0002869	U2OS	5	1	4
+UBERON:0002114	duodenum	5	0	5
+UBERON:0002115	jejunum	5	0	5
+EFO:0002793	HL-60	4	0	4
+NTR:0001102	anterior left cardiac atrium	4	0	4
+UBERON:0001150	body of pancreas	4	0	4
+CL:0000625	CD8-positive, alpha-beta T cell	3	3	0
+CLO:0007938	NALM-6 cell	3	3	0
+UBERON:0001155	colon	3	0	3
+EFO:0001182	HEK293	2	2	0
+UBERON:0002084	heart left ventricle	2	0	2
+CL:0000624	CD4-positive, alpha-beta T cell	1	1	0
+EFO:0001185	HeLa	1	1	0
+CLO:0007393	LS 174T cell	1	1	0
+EFO:0006496	TMD8	1	1	0
+CL:0002539	aortic smooth muscle cell	1	1	0
+UBERON:0000956	cerebral cortex	1	1	0
+CL:0011108	colon epithelial cell	1	0	1
+UBERON:0000397	colonic epithelium	1	0	1
+CL:0000235	macrophage	1	1	0
+CL:0011020	neural progenitor cell	1	1	0
